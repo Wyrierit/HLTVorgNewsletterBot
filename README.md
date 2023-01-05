@@ -1,4 +1,3 @@
-<img src="HLTV.png" align="right" />
 # HLTV NewsletterBot is a bot which pens HLTV.org website using BeautifulSoup Python library and gets list of todays news.
 > Author: Eduard Patoka, @Wyrierit
 ## Sources I used that made possible this project for my final qualifying work:
